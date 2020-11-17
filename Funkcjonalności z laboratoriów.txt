@@ -1,0 +1,5 @@
+1.
+Podczas poruszania wielokąta widać jego poprzednie położenie (cień, bez ikonek relacji na krawędziach).
+
+2.
+Tymczasową zmianę koloru krawędzi i jej pogrubienie można osiągnąć przez kliknięcie prawym przyciskiem myszy na odpowiednią krawędź w domyślnym trybie pracy aplikacji.
